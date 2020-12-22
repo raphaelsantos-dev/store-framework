@@ -13,7 +13,7 @@
                 "minItemsPerPage": 1,
                 "scroll": "BY_PAGE",
                 "arrows": true,
-                "titleText": "Roupas"
+                "titleText": "Categorias"
             }
         }
     }
