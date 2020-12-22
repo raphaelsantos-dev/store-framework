@@ -4,7 +4,7 @@
             "product-summary.shelf"
         ],
         "props": {
-            "category": 305,
+            "category": 0,
             "orderBy": "OrderByTopSaleDESC",
             "paginationDotsVisibility": "desktopOnly",
             "productList": {
@@ -13,7 +13,7 @@
                 "minItemsPerPage": 1,
                 "scroll": "BY_PAGE",
                 "arrows": true,
-                "titleText": "Top sellers"
+                "titleText": "Roupas"
             }
         }
     }
