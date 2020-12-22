@@ -3,11 +3,11 @@
     margin: 0 auto;
     padding: 0;
 }
-.infoCardHeadline{
+.infoCardHeadline {
     color: black;
     font-weight: bold;
 }
-.infoCardCallActionContainer :global(.vtex-button):hover{
+.infoCardCallActionContainer :global(.vtex-button):hover {
     background: white;
     color: black;
 }
