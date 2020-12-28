@@ -41,7 +41,8 @@
           "header-spacer",
           "search-bar",
           "minicart",
-          "login"
+          "login",
+          "header-row#menu"
         ],
       
         "props": {
@@ -51,8 +52,17 @@
         }
     },
 
+    "header-row#menu": {
+        "children": [
+          "header-spacer",
+          "vtex.menu@2.x:menu#categories",
+          "header-spacer"
+        ]
+    },
+
     "header-row#main-mobile": {
         "children": [
+          "drawer",
           "logo",
           "header-spacer",
           "minicart",
