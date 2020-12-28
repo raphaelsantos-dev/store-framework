@@ -15,7 +15,8 @@
     "header-layout.desktop": {
       "children": [
         "header-row#notification",
-        "header-row#main"
+        "header-row#main",
+        "header-row#menu"
       ]
     },
   
@@ -41,8 +42,7 @@
           "header-spacer",
           "search-bar",
           "minicart",
-          "login",
-          "header-row#menu"
+          "login"
         ],
       
         "props": {
